@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @klyanyi
-- 👀 I’m interested in becoming a fullstack engineer. I was a front-end developer for 3.5 years (fun times), and am currently embarking a journey in the back-end world.
-- 🌱 I’m currently learning how to ~~stay sane in the midst of the pandemic~~ be to a better tech person. The world is the oyster.
+### 👋 Hi, I'm Kelly.
 
-<!---
-klyanyi/klyanyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### About me
+- 🤓 I'm a fullstack developer, a curious person who enjoys a good cup of coffee, with a passion of learning continously. 
+- 🌱 I worked as a frontend developer in my previous role. While I loved working with development and design, I'd transitioned to a backend role 📚
+
+#### Technical skills
+
+- JS, Angular2, React, HTML/CSS, SCSS
+- Perl, PostgreSQL, Node.js
+
