@@ -9,3 +9,5 @@
 - JS, Angular2, React, HTML/CSS, SCSS
 - Perl, PostgreSQL, Node.js
 
+Check out my other [Github](https://github.com/kelly-binary) account.
+
